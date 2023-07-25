@@ -1,6 +1,6 @@
 # Web-Scraping---SplinterHTMLBeautifulSoup
 
-This project revolved full web-scarping and data analysis. Specifically identifying HTML elements on a page, identifying their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
+-This project revolved full web-scarping and data analysis. Specifically identifying HTML elements on a page, identifying their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
 - Part 1 Deliverable: Scrape titles and preview text from Mars news articles.
 
